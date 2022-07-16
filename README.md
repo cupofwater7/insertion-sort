@@ -1,5 +1,7 @@
+                                                Coding Interview Questions
 # insertion-sort
 
+Difficulty: easy
 
   Write a function that takes in an array of integers and returns a sorted
   version of that array. Use the Insertion Sort algorithm to sort the array.
